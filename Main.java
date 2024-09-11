@@ -21,7 +21,8 @@ public class Main {
 			RevisedEvent tulsaMassacre = new RevisedEvent(tulsaDescription, tulsaDay,
 					tulsaRevised, tulsaCitation);
 
-			//MY OWN HISTORICAL EVENT
+
+			//MY OWN HISTORICAL EVENTsss
 			String dDayDescription = "The Normandy landings were the landing operations and associated airborne operations on 6 June 1944 of the Allied invasion of Normandy in Operation Overlord during the Second World War. Codenamed Operation Neptune and often referred to as D-Day, it is the largest seaborne invasion in history. The operation began the liberation of France, and the rest of Western Europe, and laid the foundations of the Allied victory on the Western Front.";
 			Date dDayDay = new Date(6, 6, 1944);
 		
